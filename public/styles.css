@@ -1,0 +1,47 @@
+body {
+	overflow: hidden;
+	margin: 8px;
+}
+
+canvas {
+	background-color: #000;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+[class^="panel"] {
+	position: absolute;
+	z-index: 9;
+	background-color: rgb(255,255,255);
+	border: 1px solid rgb(245,245,245);
+	border-radius: 2px;
+}
+[class^="section"] {
+	border-top: 2px solid rgb(205,205,205);
+}
+[class$="text"] {
+	text-align: left;
+	padding: 4px;
+}
+
+a {
+	color: rgb(75,255,75);
+}
+c {
+	color: rgb(220,175,75);
+}
+
+::-webkit-scrollbar {
+	width: 12px;
+	height: 12px;
+}
+::-webkit-scrollbar-track {
+	background: rgb(225,225,225);
+}
+::-webkit-scrollbar-thumb {
+	background: #888;
+}
+::-webkit-scrollbar-thumb:hover {
+	background: #555;
+}
