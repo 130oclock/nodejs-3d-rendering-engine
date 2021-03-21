@@ -25,22 +25,6 @@ app.use('/public', express.static(__dirname + '/public'));
 app.get('/', function(request, response) {
 	response.sendFile(path.join(__dirname, 'public/client.html'));
 });
-app.get('/planet', function(request, response) {
-	response.sendFile(path.join(__dirname, 'public/planetGen/planetClient.html'));
-	console.log('a user connected to planet generator');
-});
-app.get('/ant', function(request, response) {
-	response.sendFile(path.join(__dirname, 'public/simulations/LangtonsAnt.html'));
-	console.log("a user connected to Langton's ant");
-});
-app.get('/tree', function(request, response) {
-	response.sendFile(path.join(__dirname, 'public/simulations/Quadtree.html'));
-	console.log("a user connected to Quadtree");
-});
-app.get('/mandelbrot', function(request, response) {
-	response.sendFile(path.join(__dirname, 'public/simulations/Mandelbrot Set.html'));
-	console.log("a user connected to Mandelbrot");
-});
 
 // Starts the server.
 server.listen(port_, function() {
