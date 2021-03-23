@@ -16,5 +16,5 @@ This is a 3d rendering engine with a few extra features. It utilizes node.js to 
 * CSS
 
 ## Inspiration
-javidx9 (OneLoneCoder)
-The Coding Train
+* javidx9 (OneLoneCoder)
+* The Coding Train
