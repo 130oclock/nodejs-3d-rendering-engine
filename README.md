@@ -9,8 +9,9 @@ This requires the node.js package "socket.io" to run properly
 
 ## General info
 This is a 3d rendering engine with a few extra features. It utilizes node.js to create a browser based 3d rendering engine in the HTML5 canvas.
-
+This is a screenshot of the Utah Teapot being rendered using this 3d rendering engine.
 ![Utah Teapot Screenshot](./images/UtahTeapotScreenshot.png)
+This is a screenshot of Boids which I implemented into the 3d rendering engine. Boids is an artificial life program, developed by Craig Reynolds in 1986, which simulates the flocking behaviour of birds. 
 ![Boid Example Screenshot](./images/BoidExample.png)
 
 ### Languages
