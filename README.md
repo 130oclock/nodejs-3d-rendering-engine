@@ -5,6 +5,7 @@ A node.js and HTML5 based 3d rendering engine loosely based on javidx9's 3d rend
 * [General info](#general-info)
 * [Languages](#languages)
 * [Dependencies](#dependencies)
+* [Start up](#start-up)
 * [Inspiration](#inspiration)
 * [Visuals](#visuals)
 
@@ -25,6 +26,12 @@ I have also implemented [Boids](https://en.wikipedia.org/wiki/Boids), an artific
 ### Dependencies
 * [node.js](https://nodejs.org/en)
 * [Socket.io](https://socket.io)
+
+### Start Up
+The server can be started by running this command in the project directory.
+```
+node server.js
+```
 
 ## Inspiration
 * [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) (OneLoneCoder)
