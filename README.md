@@ -32,12 +32,12 @@ I have also implemented [Boids](https://en.wikipedia.org/wiki/Boids), an artific
 <details>
 <summary>This is a screenshot of the Utah Teapot.</summary>
 <br>
-![Utah Teapot Screenshot](./images/UtahTeapotScreenshot.png)
+<img src="./images/UtahTeapotScreenshot.png">
 </details>
 
 <details>
 <summary>This is a screenshot of Boids.</summary>
 <br>
-![Boid Example Screenshot](./images/BoidExample.png)
+<img src="./images/BoidExample.png">
 </details>
 
