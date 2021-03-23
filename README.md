@@ -29,7 +29,15 @@ I have also implemented [Boids](https://en.wikipedia.org/wiki/Boids), an artific
 * [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
 ## Visuals
-This is a screenshot of the Utah Teapot.
+<details>
+<summary>This is a screenshot of the Utah Teapot.</summary>
+<br>
 ![Utah Teapot Screenshot](./images/UtahTeapotScreenshot.png)
-This is a screenshot of Boids.
+</details>
+
+<details>
+<summary>This is a screenshot of Boids.</summary>
+<br>
 ![Boid Example Screenshot](./images/BoidExample.png)
+</details>
+
