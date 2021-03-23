@@ -23,6 +23,6 @@ I have also implemented Boids, an artificial life program, developed by Craig Re
 
 ## Visuals
 This is a screenshot of the Utah Teapot.
-![Utah Teapot Screenshot](./images/UtahTeapotExample.png)
+![Utah Teapot Screenshot](./images/UtahTeapotScreenshot.png)
 This is a screenshot of Boids.
 ![Boid Example Screenshot](./images/BoidExample.png)
