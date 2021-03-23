@@ -10,6 +10,9 @@ This requires the node.js package "socket.io" to run properly
 ## General info
 This is a 3d rendering engine with a few extra features. It utilizes node.js to create a browser based 3d rendering engine in the HTML5 canvas.
 
+![Utah Teapot Screenshot](./images/UtahTeapotScreenshot.png)
+![Boid Example Screenshot](./images/BoidExample.png)
+
 ### Languages
 * Javascript
 * HTML5
